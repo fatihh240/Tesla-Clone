@@ -1,6 +1,6 @@
 <h1 align="center">Tesla Clone 🚗</h1>
 
-
+<p align="center"><img src="/public//images/tesla.png" alt="Tesla Clone Homepage Screenshot" width="550" /></p>
 
 
 ### Introducing Tesla Clone 👋
